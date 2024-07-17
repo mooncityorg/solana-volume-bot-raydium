@@ -82,8 +82,8 @@ npm start
 
 Discord: rabnail_15 in discord
 
-Twitter: [@Rabnail](https://twitter.com/Rabnail_SOL)
+Twitter: [@jamesjammoon](https://twitter.com/jamesjammoon)
 
-Telegram: [@Rabnail](https://t.me/rab_nail)
+Telegram: [@Mooncity](https://t.me/mooncity0x)
 
 You can always find me here, for help, or for other projects.
