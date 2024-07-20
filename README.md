@@ -80,8 +80,6 @@ npm start
 
 ## Author
 
-Discord: rabnail_15 in discord
-
 Twitter: [@jamesjammoon](https://twitter.com/jamesjammoon)
 
 Telegram: [@Mooncity](https://t.me/mooncity0x)
