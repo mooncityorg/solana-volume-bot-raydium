@@ -80,7 +80,7 @@ npm start
 
 ## Author
 
-Twitter: [@jamesjammoon](https://twitter.com/jamesjammoon)
+Twitter: [@0xmooncity](https://twitter.com/0xmooncity)
 
 Telegram: [@Mooncity](https://t.me/mooncity0x)
 
