@@ -18,7 +18,6 @@ export const SELL_ALL_BY_TIMES = Number(retrieveEnvVariable('SELL_ALL_BY_TIMES',
 export const SELL_PERCENT = Number(retrieveEnvVariable('SELL_PERCENT', logger))
 
 export const DISTRIBUTE_WALLET_NUM = Number(retrieveEnvVariable('DISTRIBUTE_WALLET_NUM', logger))
-// export const CHECK_BAL_INTERVAL = Number(retrieveEnvVariable('CHECK_BAL_INTERVAL', logger))
 
 export const WALLET_NUM = Number(retrieveEnvVariable('WALLET_NUM', logger))
 
