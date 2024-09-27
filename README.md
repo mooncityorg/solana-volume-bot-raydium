@@ -57,31 +57,3 @@ BLOCKENGINE_URL=ny.mainnet.block-engine.jito.wtf  # Block engine URL
 LOG_LEVEL=info               # Logging level (info, debug, error)
 ```
 
-## Usage
-1. Clone the repository
-```
-git clone https://github.com/rabnail/volume-bot_raydium.git
-cd volume-bot_raydium
-```
-2. Install dependencies
-```
-npm install
-```
-3. Configure the environment variables
-
-Rename the .env.copy file to .env and set RPC and WSS, main keypair's secret key, and jito auth keypair.
-
-4. Run the bot
-
-```
-npm start
-```
-
-
-## Author
-
-Twitter: [@0xmooncity](https://twitter.com/0xmooncity)
-
-Telegram: [@Mooncity](https://t.me/mooncity0x)
-
-You can always find me here, for help, or for other projects.
